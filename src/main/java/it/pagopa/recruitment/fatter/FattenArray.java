@@ -8,8 +8,6 @@ import java.util.stream.Stream;
  * Flattening an array of arbitrarily nested
  * arrays of integers into a flat array of integers
  * 
- * @author Michele Davoli
- *
  */
 public class FattenArray {
 
